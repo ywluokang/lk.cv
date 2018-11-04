@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+# 骆康
 
-You can use the [editor on GitHub](https://github.com/ywluokang/lk.cv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://github.com/ywluokang/lk.cv/blob/master/%E8%AF%81%E4%BB%B6%E7%85%A7%E5%B0%8F.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
 
-### Markdown
+**通讯地址**：上海市闵行区东川路800号上海交通大学材料科学与工程学院B楼210
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**手机**：+86-18818273866　　　　　　　　　　**电子邮件**: ywluokang@163.com
 
-```markdown
-Syntax highlighted code block
+**兴趣爱好**：篮球，足球（**均加入院队**），长、短跑（**保持高中校记录**）
 
-# Header 1
-## Header 2
-### Header 3
+***
 
-- Bulleted
-- List
+### 教育背景:
+2016.09 - 2019.03　　**上海交通大学**　　　**材料科学与工程学院**　　　**材料科学与工程**　　　硕士
 
-1. Numbered
-2. List
+2012.09 - 2016.07　　**上海交通大学**　　　**材料科学与工程学院**　　　**材料科学与工程**　　　学士
 
-**Bold** and _Italic_ and `Code` text
+**语言技能**：普通话、英语 (大学英语六级)　　　　　　　　　　　　　　　　　　　　　**绩点3.35/4.0**
 
-[Link](url) and ![Image](src)
-```
+**技能**：精通Office办公软件，证券从业资格证，Photoshop熟练，C++入门，掌握扫描电镜等精密仪器的操作。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+***
 
-### Jekyll Themes
+### 社会实践与学生工作：
+2017/08-2017/09　　　**华为“云领全球”全连接大会**　　　**会场志愿者**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ywluokang/lk.cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 负责会场咨询以及物资调配，感受企业氛围，学习专业严谨合作的习惯和精神；
+  
+* 连续三天获得优秀志愿者，该活动志愿者在上交录取率不到20%
+  
+2013/10-2013/10　　　 **“海洋天堂”关爱自闭儿童-汽车观影活动**　　　**活动负责人**
 
-### Support or Contact
+* 与吴泾镇政府相关人员接洽，在预算有限情况下得到满意方案
+  
+* 全程负责人员招募，活动安排，时间接洽，采访部分活动参与家庭，获得一致好评
+  
+2012/02-至今　　　**上海交通大学青年志愿者服务总队**　　　**事务中心干事**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* 参加各类志愿者活动：
+
+      上海国际马拉松赛志愿者、120周年校庆志愿者、全国高校思想政治工作会议志愿者等几十余项志愿者活动
+    
+* 组织多项志愿者活动：
+  
+      与上海对外经贸大学合作组织关爱流浪猫活动，策划校内交通管理方案，成立“青椒队”-交大青年志愿者交通服务总队
+    
+2016/09-2017/09　　　**上海交通大学学生事务中心勤工助学部　　　综合业务部干事**
+
+* 与校内教师，学生，校外企业接洽，发布勤工助学信息，参与组织勤工助学培训及考核
+  
+* 部门每周绩效考核均位于前10%
+    
+***
+    
+### 学术科研：
+
+2017/09-至今　　　**铸造WE43镁合金针对Y元素的成分优化及组织性能研究　　　项目负责人**
+
+* 减少WE43合金中Y的含量，探究Y含量变化对合金力学性能的影响；
+
+* 加入Gd元素以保持稀土总含量不变，以期抵消由于Y元素减少而造成的力学性能的下降。
+
+2015/09 -2016/06　　　**微量合金元素对WE43A镁稀土合金力学性能的影响　　　项目负责人**
+
+* 对砂型铸造的WE43A合金进行微合金化
+
+* 解决铸件本体塑性偏低，合金的延伸率和疲劳寿命不足的问题。
+
+2015/01-2015/11　　　**上海交通大学复合材料研究所　　　研究参与者**
+
+* 课余时间参与高性能染料敏化太阳能电池（硒酸钡，钙钛矿等）的基础研究。  
+
+2014/11-2015/05　　　**高速形变下Mn基反铁磁形状记忆合金的力学性能基微观组织变化　　　项目负责人**
+
+* 参与“上海大学生创新活动计划”，在指导老师指导下研究高阻尼性能的Mn基反铁磁性形状记忆合金。
+
+***
+
+## 荣誉奖励：                           
+
+* “上海大学生创新活动计划”项目——**验收通过**
+
+* 上海交通大学轻合金中心篮球比赛——**第一名**
+
+* 上海交通大学2018-2019学年——**优秀学生党员**
